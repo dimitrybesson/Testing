@@ -1,1 +1,2 @@
 Wow I am writing my own Ruby file through another file.
+And a small change.
